@@ -1,12 +1,7 @@
 # Launching
 
-1. Accept the assignment
-   ![Accept Assignment](./doc/images/GHC_Accept.png)
-2. If asked to select an id, select `Skip to the next step`
-   ![Skip ID](./doc/images/GHC_IDlist.png)
-3. Go to the repository.
-   ![Go to Repo](./doc/images/GHC_Assignment.png)
-4. Open a Codespace on the repository
+1. Fork this repo
+1. Open a Codespace on the repository
    ![Open Codespace](./doc/images/GHC_CreateCodespace.png)
 
 # Usage
