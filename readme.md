@@ -1,7 +1,7 @@
 # Launching
 
 1. Fork this repo
-1. Open a Codespace on the repository
+1. Open a Codespace on the repository<br />
    ![Open Codespace](./doc/images/GHC_CreateCodespace.png)
 
 # Usage
