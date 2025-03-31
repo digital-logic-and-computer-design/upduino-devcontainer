@@ -1,0 +1,6 @@
+products/
+*.log
+*.vcd 
+*.bin
+**/.DS_Store
+**/__pycache__
